@@ -10,13 +10,18 @@ def collectAttributes():
     """Collects user input for expressions and # of columns"""
     varNum, intColNum, finColNum = 0, 0, 0
     varList = [varNum, intColNum, finColNum]
+    valid = False
 
     # Column Count
-    descList = ["variables", "intermediate columns", "final columns"]
-    for i in range(len(varList)):
-        varList[i] = input("Enter the # of " + descList[i] + " you want to use: ")
-        while not varList[i].isdigit():
-            varList[i] = input("Invalid input. Enter the # of " + descList[i] + " you want to use: ")
+    while not valid:
+        try:
+            varList = [int(x) for x in input("Enter the # of variables, intermediate columns, and final columns you want, separated by spaces.\nExample: 2 3 2\n").split()]
+            if len(varList) != 3 or varList[0] < 1:
+                print("Invalid number of inputs or the # of variables isn't above 0.")
+                raise ValueError
+            valid = True
+        except ValueError:
+            print("Please try again.\n")
 
     # Variable Names
     varNames = []
@@ -38,6 +43,7 @@ def createTable(varNames, expNames):
     rows = int(pow(BASE, len(varNames)))
 
     # Table Setup
+    print('Copy-paste the following into your LaTeX editor:\n\n')
     print('\n\\begin{tabular}{', end='')
     for i in range(colNum):
         print('|c', end='')
