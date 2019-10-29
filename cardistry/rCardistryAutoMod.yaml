@@ -1,0 +1,67 @@
+---
+    title: [beginner, new to cardistry, where to start, start from scratch, begginer, new to this, how to start, where to go next, what to learn, decks to start, starting out, where to begin, beginer, just started, moves to learn, cuts to learn, after basics, should i learn, new cardist, help starting, beginning]    # Comments on posts that contain keywords often associated with newcomers, common questions, or beginner cardists
+    comment: |
+        If you're new to cardistry, **consider checking out the [Beginner's Guide & Tutorial List](https://docs.google.com/document/d/1Drp8ktfT4kgFEFGM7U67Oj45EHPj6QzJEJEHyEcNwNY/edit?usp=sharing)** for beginner tips, a list of moves to progress through, and an FAQ among many other resources.
+        
+        If you're looking for something new to learn, you can see our [community-selected list of moves](https://docs.google.com/document/d/1Drp8ktfT4kgFEFGM7U67Oj45EHPj6QzJEJEHyEcNwNY/edit?usp=sharing) (also a part of the Beginner's Guide & Tutorial List) and pick out interesting flourishes to learn. Alternatively, you can check out [School of Cardistry](https://www.youtube.com/user/SchoolOfCardistry), [Cardistry Touch](https://www.youtube.com/channel/UCfIH2al0lYgAg9S3OEjDOLQ), [Lotus in Hand](https://www.youtube.com/channel/UCErKkHyrzaxD1PzaebCCoZw), [Dealersgrip](https://www.youtube.com/user/dealersgrip), [di.cardistry](https://www.youtube.com/channel/UCtIHx88KZWdbWf30lAZEkKg) and [Best Cardist Alive](https://www.youtube.com/channel/UCj7QTSVnliwlcs8Z3IbgDGg) to find moves to learn.
+
+        If you see a post that could be answered by this bot, comment `!beginner` to get the bot to reply.
+
+---
+    title: [meetup, jam, session, meet up]    # Comments a link to the cardist location page to assist with meetups/jams
+    comment: |
+        If you're looking to set up a jam/meetup, consider checking out the **[Cardist Location List aka "Find a cardist near you"](https://www.reddit.com/r/cardistry/wiki/cardists-near-you)** to see if any other cardists are in your area. You might also want to add your name to the list (see instructions on the page).
+
+---
+    title: [tiny hands, small hands, small sized hands, hands are too small, small hand, tiny hand, small handed, tiny handed]    # Comments on post body/titles that contain "tiny/small hands" that it's possible to do cardistry
+    comment: |
+        Your hands are **NOT** too small. Check out [Madhi Gilbert, who can perform cardistry without hands,](https://youtu.be/4FtCU7GAjtw) or [any](https://redd.it/8oxbnx) [of](https://youtu.be/gqyW3F7EZ5g?t=4m10s) [these](https://youtu.be/iIsiBCXYAP4?t=39s) [cardists](https://www.instagram.com/lukas_rebele/).
+
+        You may need to practice more, try different grips or try using less cards to get there (avoid bridge-size cards if possible). Some moves will be harder without larger hands, but **most moves out there are possible with enough effort and patience.**
+
+        If you see a post that could be answered by this bot, comment `!tinyhands` to get the bot to reply.
+
+---
+    title: [is this new, is this original, come up with this before, have a name, is it an original, is it original, is it new, done this before, is this an original, is this a original, is it a new, made this yet, done this yet]    # Comments on posts that contain keywords often associated with asking if their move is original
+    comment: |
+        If you're just starting out and the move you came up with is simple, uses basic mechanics, or is a combination of simpler moves, there's a pretty good chance that it is NOT original. It doesn't mean that the move is inherently bad, it just means that someone else came up with it before you did (if it is unoriginal). That doesn't mean you should stop trying to create new moves either -- just realize that it might take a while for you to come up with something truly original. Good moves take time, so don't try to rush it either :)
+
+        Of course, if your move is legitimately original, don't forget that originality isn't the only thing that makes a move great. The mechanics/concepts, visual appeal, and execution are just as, if not more, important than its originality.
+
+        If you see a post that could be answered by this bot, comment `!original` to get the bot to reply.
+
+---
+    type: comment    # Allows any users to comment '!beginner' on a thread and have automoderator comment links to the Beginner's Guide & Tutorial List
+    body (includes): ["!beginner"]
+    comment: |
+        If you're new to cardistry, **consider checking out the [Beginner's Guide & Tutorial List](https://docs.google.com/document/d/1Drp8ktfT4kgFEFGM7U67Oj45EHPj6QzJEJEHyEcNwNY/edit?usp=sharing)** for beginner tips, a list of moves to progress through, and an FAQ among many other resources.
+        
+        If you're looking for something new to learn, you can see our [community-selected list of moves](https://docs.google.com/document/d/1Drp8ktfT4kgFEFGM7U67Oj45EHPj6QzJEJEHyEcNwNY/edit?usp=sharing) (also a part of the Beginner's Guide & Tutorial List) and pick out interesting flourishes to learn. Alternatively, you can check out [School of Cardistry](https://www.youtube.com/user/SchoolOfCardistry), [Cardistry Touch](https://www.youtube.com/channel/UCfIH2al0lYgAg9S3OEjDOLQ), [Lotus in Hand](https://www.youtube.com/channel/UCErKkHyrzaxD1PzaebCCoZw), [Dealersgrip](https://www.youtube.com/user/dealersgrip), [di.cardistry](https://www.youtube.com/channel/UCtIHx88KZWdbWf30lAZEkKg) and [Best Cardist Alive](https://www.youtube.com/channel/UCj7QTSVnliwlcs8Z3IbgDGg) to find moves to learn.
+
+        If you see a post that could be answered by this bot, comment `!beginner` to get the bot to reply.
+         
+---
+    type: comment    # Allows any users to comment '!meetup' on a thread and have automoderator comment a link to the Cardist Location List
+    body (includes): ["!meetup"]
+    comment: |
+        Consider checking out the [Cardist Location List aka "Find a cardist near you"](https://www.reddit.com/r/cardistry/wiki/cardists-near-you) to see if any other cardists are in your area for a meetup. You might also want to add your name to the list (see instructions on the page). 
+
+---
+    type: comment    # Allows any users to comment '!tinyhands' on a thread and have automoderator comment a reminder about small/tiny hands
+    body (includes): ["!tinyhands"]
+    comment: |
+        Your hands are **NOT** too small. Check out [Madhi Gilbert, who can perform cardistry without hands,](https://youtu.be/4FtCU7GAjtw) or [any](https://redd.it/8oxbnx) [of](https://youtu.be/gqyW3F7EZ5g?t=4m10s) [these](https://youtu.be/iIsiBCXYAP4?t=39s) [cardists](https://www.instagram.com/lukas_rebele/).
+
+        You may need to practice more, try different grips or try using less cards to get there (avoid bridge-size cards if possible). Some moves will be harder without larger hands, but **most moves out there are possible with enough effort and patience.**
+
+        If you see a post that could be answered by this bot, comment `!tinyhands` to get the bot to reply.
+
+---
+    type: comment    # Allows any users to comment '!original' on a thread and have automoderator comment a reminder about original moves
+    body (includes): ["!original"]
+    comment: |
+        If you're just starting out and the move you came up with is simple, uses basic mechanics, or is a combination of simpler moves, there's a pretty good chance that it is NOT original. It doesn't mean that the move is inherently bad, it just means that someone else came up with it before you did (if it is unoriginal). That doesn't mean you should stop trying to create new moves either -- just realize that it might take a while for you to come up with something truly original. Good moves take time, so don't try to rush it either :)
+
+        Of course, if your move is legitimately original, don't forget that originality isn't the only thing that makes a move great. The mechanics/concepts, visual appeal, and execution are just as, if not more, important than its originality.
+
+        If you see a post that could be answered by this bot, comment `!original` to get the bot to reply.
