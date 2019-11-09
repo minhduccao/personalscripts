@@ -1,5 +1,4 @@
-from os import name
-from subprocess import call
+from os import system, name
 from string import ascii_lowercase
 
 
@@ -29,7 +28,7 @@ def parseInput(questions: list) -> list:
 
 def clearScreen():
     """Clears screen to allow for copy-pasting"""
-    _ = call('clear' if name =='posix' else 'cls')
+    system('cls' if name == 'nt' else 'clear')
 
 
 def printLayout(parsedQuestions: list):
@@ -49,11 +48,11 @@ def printLayout(parsedQuestions: list):
         print('% QUESTION', num)
         print('\\section*{\\#' + str(num) + ':', question[0] + '}')
 
-        letters = [let.strip() for let in question[1].split(',')]
+        letters = [let.strip() for let in question[1].split(',')]       # Separates out each individual problem letter
         for letter in letters:
             if len(letter) == 1:
                 print('\\subsection*{' + letter + '.}')
-            else:
+            else:                                                       # Runs if there's a set of problem letters, ex: a-d
                 letterSection = ascii_lowercase[ascii_lowercase.find(letter[0]):ascii_lowercase.find(letter[-1]) + 1]
                 for let in letterSection:
                     print('\\subsection*{' + let + '.}')
@@ -65,7 +64,6 @@ def printLayout(parsedQuestions: list):
 
 
 if __name__ == '__main__':
-    y = ['1) 5.1.1 a', '2) 5.1.2 a-c', '3) 5.1.3 a, b-d', '4) 5.2.2 c', '5) 5.3.1 g']
-    printLayout(parseInput(y))
-    print('end')
-
+    q = list(collectInput())
+    clearScreen()
+    printLayout(parseInput(q))
