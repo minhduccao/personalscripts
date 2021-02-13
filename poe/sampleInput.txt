@@ -1,0 +1,257 @@
+----- outside
+5c - scaeva for ggd
+14c - gear for ggd loan
+61c - wep for ggd loan
+6c - reckless ambition (for selling)
+21c - 3x reckless ambition (for selling)
+7c - l20 grace
+1c - trial tip
+1c - arena map
+1c - frozen cabins map
+1c - overgrown ruin map
+2c - chateau
+5c - desert spring map
+4c - plateau map
+2c - volatile power
+1c - cartographers delight
+2c - 2x i85 twostone rings for crafts
+1c - i85 twotoned boots for craft
+1c - racecourse map
+24c - ull netol's breachstone for it that fled
+2c - volatile power
+1c - vol power
+2c - vol power
+2c - vol power
+10c - 2x spirit shields for infl
+6c - vol power 2x
+13c - fenumus toxins for craft
+14c - fenumus spinnerets for craft
+4c - siege map
+4c - scriptorium
+4c - residence map
+2c - siege map
+4c - map
+7c - map
+4c - bazaar map
+7c - bramble vally
+4c - +1 wand for tony
+5c -
+3c - pit map
+5c - vault map
+13c - fenumus for craft
+20c - enlighten 2 for selling
+5c - foundry map
+20c -
+6c - shield for influenc crarft
+30c - 100x chisels
+20c - 66x chisels
+7c - city square map
+5c - barrows map
+5c - arachnid tomb
+4c - thicket map
+5c - colonnade
+5c - estuary map
+10c - enlighten 2
+50c - oshabi kill
+4c - pen map
+100c - watchstone challenge
+9c - maps for maven
+--------------------------------------- explosive trapper
+1c - chernobog's  pillar
+5c - +1fire sceptre
+3c - 5l body armor
+10c - leather belt
+20c - 6l armor
+5c - boots
+60c - amulet (non-channel, stats)
+10c - hair trigger jewel
+5c - vaal grace
+9c - helm
+125c - slave driver's hands
+5c - twostone ring
+5c - circle of anguish
+10c - boots
+3c - enhance
+1c - assassin;s mark
+3c - black oil
+------------------ detonate dead
+7c - tabula
+1c - goldrim
+2c - thief's torment
+4c - vaal dd
+8c - trigger wand
+-------------------------------- Vortex/Cold Snap
+1c - bated breath
+4c - vortex 20q
+4c - vaal cold snap
+5c - leveling wand
+5c - leveling shield
+1c - vaal disc
+100c - shavs unlinked
+5c - prophecy wand
+5c - trigger craft
+2c - sin trek boots
+5c - rime gaze
+90c - 6l body 500es
+20c - shield
+23c - wand
+10c - rumis
+24c - intuitive leap
+15c - energy from within
+5c - trigger craft
+10c - gloves
+8c - amulet
+25c - topaz ring
+8c - two stone ring
+6c - witchfire brew
+15c - fingerless gloves
+15c - cobalt jewel (cdot, spell, max es)
+-------------------------------------- PENANCE BRAND (respec trapper) -- played from 2 days 21 hours to 3 days 1 hour
+18c - 27 regrets
+20c - 29 regrets
+367c - explosion vaal regalia
+20c - 29 regrets
+80c - penance brand cast spd helm
+35c - void battery
+20c -thread of hope (not rolled)
+16c - divines to reroll thread of hope (-11%)
+11c - call of the brotherhood
+40c - void battery
+14c - call of the brotherhood
+10c - amulet
+25c - med cluster (holy conquest, brand loyalty)
+17c - large cluster (widespread, prismatic heart)
+35c - med cluster (brand loyalty, remarkable)
+20c - es boots
+6c - small cluster (es
+10c - small cluster (es)
+10c - fingerless goves
+5c - fingerless gloves
+5c - crystal belt
+25c - intuitive leap
+20c - energy from within
+19c - crafted conver to light on gloves (div +7c fee)
+29c - enlighten 3
+3c - atziri's promise
+1c - eternal mana flask
+10c - penance brand
+------------- reave
+1c - vorax
+350c - explode chest
+9c - the gryphon (for leveling)
+1c - relentless fury
+2c - vaal reave 23q
+2c - vaal double strike 23q
+8c - vaal ancestral warchief 23q
+27c - abyssus
+2c - 2x lakishy's sword
+4c - 2x ichimonji
+320c - paradoxica blind, phys, crit, quality
+30c - steel ring
+35c - vaal caress enfeeble
+25c - vaal orbs to rr
+25c - vaal orbs to rr again
+20c - corr blood jewel
+5c - amulet
+1c - blood rush ring
+7c - boots
+50c - steel ring
+402c - ryslatha's coil
+12c - 40x abrasive catalysts
+14c - divines for belt
+50c - steel ring loath whirl
+83c - rem lightning craft
+25c - watchers eye
+14c - silver oil for annoint
+--------------------------------------------------------- power siphon int stacker
+150c - power siphon atk spd 15%
+110c - hunters exalt
+18c - 2x deaf spite
+9c - 1x deaf spite
+9c - 1x deaf spite
+9c - 1x deaf spite
+9c - 1x deaf spite
+22c - 2x deaf spite
+18c - 2x deaf spite
+18c - 2x deaf spite
+20c - 2x deaf spite
+9c - 1x deaf spite
+9c - 1x deaf spite
+9c - 1x deaf spite
+30c - 3x deaf spite
+22c - 2x deaf spite
+9c - deaf spite
+18c - 2x deaf spite
+30c - 3x deaf spite
+27c - 3x deaf spite
+38c - 4x deaf spite
+18c - 2x deaf spite
+20c -2x deaf spite
+37c - 4x deaf spite
+33c - 3x deaf spite
+36c - 3x deaf spite
+100c - 9x deaf spite
+20c - 2x deaf spite
+30c - 3x deaf spite
+27c - 3x deaf spite
+18c - 2x deaf spite
+20c - 2x deaf spite
+42c - 4x deaf spite
+18c - 2x deaf spite
+27c -  3x deaf spite
+36c - 4x deaf spite
+27c - 3x deaf
+27c - 3x deaf
+18c - 2x deaf
+120c - 12x deaf spite
+30c - dying sun
+100c - inward eye +2 proj
+20c - cluster (feed the fury, fuel the fight, attr)
+3c - poachers aim
+1c - zeels amplifier
+20c - 21/23 vaal power siphon
+20c - wand
+3c - thunderfist
+2c - soul tether
+20c - med cluster
+4c - cluster
+40c - remove fire on wand
+25c - small cluster
+40c - boots
+7c - amulet
+23c - ring
+22c - ring
+25c - awakened added lightning
+10c - lv2 enhance
+7c - ele dmg w/ atks l20
+800c - HELMET
+1250c - atziri's reflection
+5c - auxium belt
+900c - explode chest
+200c - wand
+20c - boots
+40c - amulet
+6c - shapers touch atk spd implicit
+75c - rem/add fire for boots
+20c - ring
+15c - cluster veteran defender, fuel the fight
+20c - 40x regrets
+44c - thread of hope -11%
+40c - ring
+100c - rem lightning craft
+40c - jewel corr blood
+50c - 100x regrets
+60c - cluster advance guard feed the fury
+8c - cobalt jewel
+10c - abyss jewel
+30c - moonstone ring
+20c - awakened light pen
+750c - belt
+1250c - cluster (3x passives)
+120c - 2x rem/add fire
+50c - 1x rem/add fire
+190c - cinderswallow
+40c - small cluster es, 3 passive
+25c - small cluster es, 2 passive
+20c - atk spd enchant wand
+38c - golden oil
